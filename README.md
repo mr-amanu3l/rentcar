@@ -32,5 +32,5 @@ A lightweight and user-friendly car rental mobile application built with **Flutt
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/rent-car-flutter-app.git
+git clone https://github.com/mr-amanu3l/rentcar.git
 cd rent-car-flutter-app
